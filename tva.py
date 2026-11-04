@@ -10,3 +10,4 @@ prix_ttc = prix_ht + tva
 
 print("Montant de la TVA :", tva, "DT")
 print("Prix TTC :", prix_ttc, "DT")
+print("Calcul de TVA terminé.")
