@@ -8,3 +8,4 @@ total = quantite * prix_unitaire
 
 print("Le total des ventes est :", total, "DT")
 print("Gestion des ventes terminée.")
+
