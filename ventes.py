@@ -7,4 +7,4 @@ prix_unitaire = float(input("Donnez le prix unitaire : "))
 total = quantite * prix_unitaire
 
 print("Le total des ventes est :", total, "DT")
-print("Calcul du chiffre d'affaires terminé.")
+print("programme commercial terminé.")
